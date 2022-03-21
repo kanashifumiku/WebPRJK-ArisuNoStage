@@ -1,0 +1,1 @@
+alert ('Perhatian! Website ini bukanlah website resmi untuk permainan video Alice On Stage. Website ini saya buat bertujuan untuk mengasah kemampuan saya di bidang Pengembangan Web/Web Development.')
