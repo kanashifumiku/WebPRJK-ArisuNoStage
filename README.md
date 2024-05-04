@@ -1,2 +1,3 @@
-# ArisuNoStage
-Website unofficial untuk gim Arisu No Stage
+# Alice On Stage - Unofficial Website
+Preview [click here](https://arisunostage-kanpen.netlify.app)
+> mff, belum bagus websitenya
